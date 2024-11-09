@@ -13,4 +13,4 @@ satisfaction, streamline operations, and contribute to the
 growth of confectionery businesses.
 
 
-# Technologies Used :-  VB.NET, ASP.NET, MS-Access 2007 for database
+Technologies Used :-  VB.NET, ADO.NET, MS-Access 2007 for database
